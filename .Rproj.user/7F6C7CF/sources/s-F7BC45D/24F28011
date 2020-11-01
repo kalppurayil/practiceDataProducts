@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604225616440.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "356051838",
+    "id" : "24F28011",
+    "lastKnownWriteTime" : 1604227506,
+    "last_content_update" : 1604227506183,
+    "path" : "C:/Users/sange/Desktop/Rscripts/buildingDataProducts/Assignments/InteractiveMap/interactiveGeoMap.Rmd",
+    "project_path" : "Assignments/InteractiveMap/interactiveGeoMap.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,30",
+        "last_setup_crc32" : "F7BC45Dbb338d19",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

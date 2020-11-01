@@ -1,0 +1,26 @@
+---
+title: "Indian State population"
+author: "Sangeeth"
+date: "01/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+```{r map, echo=FALSE, message=FALSE}
+library(leaflet)
+state_pop <- read.csv("IndianStatePopulation.csv")
+
+state_pop %>%
+  leaflet() %>%
+  addTiles() %>%
+  addCircles(
+    weight = 1, 
+    radius = sqrt(state_pop$pop) * 30, 
+    popup = state_pop$state
+  ) 
+```

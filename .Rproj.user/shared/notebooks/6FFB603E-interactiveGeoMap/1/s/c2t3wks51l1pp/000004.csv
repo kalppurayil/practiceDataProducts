@@ -1,0 +1,13 @@
+"0","library(leaflet)"
+"0","state_pop <- read.csv(""IndianStatePopulation.csv"")"
+"0",""
+"0","state_pop %>%"
+"0","  leaflet() %>%"
+"0","  addTiles() %>%"
+"0","  addCircles("
+"0","    weight = 1, "
+"0","    radius = sqrt(state_pop$pop) * 30, "
+"0","    popup = state_pop$state"
+"0","  ) "
+"2","Assuming ""longitude"" and ""latitude"" are longitude and latitude, respectively
+"

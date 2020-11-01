@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604071778324.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8D34142C",
+    "lastKnownWriteTime" : 1602940167,
+    "last_content_update" : 1602940167,
+    "path" : "C:/Users/sange/Desktop/Rscripts/buildingDataProducts/Developing_Data_Products/R_Markdown/R_Markdown.Rmd",
+    "project_path" : "Developing_Data_Products/R_Markdown/R_Markdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "42,21",
+        "scrollLine" : "43"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

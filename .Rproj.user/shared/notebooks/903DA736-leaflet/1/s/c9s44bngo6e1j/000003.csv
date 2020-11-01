@@ -1,0 +1,6 @@
+"0","hopkinsLatLong %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(icon = hopkinsIcon)
+"
+"0",""

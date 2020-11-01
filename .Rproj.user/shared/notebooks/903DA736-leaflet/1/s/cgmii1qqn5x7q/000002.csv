@@ -1,0 +1,6 @@
+"0","my_map <- my_map %>%
+  addMarkers(lat=39.2980803, lng=-76.5898801, 
+             popup=""Jeff Leek's Office"")
+"
+"2","Error in eval(lhs, parent, parent) : object 'my_map' not found
+"

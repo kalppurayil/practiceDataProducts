@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602767883294.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3509439848",
+    "id" : "CD3F5FA5",
+    "lastKnownWriteTime" : 1602768047,
+    "last_content_update" : 1602768047096,
+    "path" : "C:/Users/sange/Desktop/Rscripts/shiny/interactiveApp/server.R",
+    "project_path" : "interactiveApp/server.R",
+    "properties" : {
+        "cursorPosition" : "36,69",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

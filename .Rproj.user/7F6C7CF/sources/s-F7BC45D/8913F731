@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603980111548.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8913F731",
+    "lastKnownWriteTime" : 1575440642,
+    "last_content_update" : 1575440642,
+    "path" : "C:/Users/sange/Desktop/Rscripts/buildingDataProducts/test/app.R",
+    "project_path" : "test/app.R",
+    "properties" : {
+        "cursorPosition" : "19,21",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

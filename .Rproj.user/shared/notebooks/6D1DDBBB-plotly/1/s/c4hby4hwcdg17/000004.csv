@@ -1,0 +1,10 @@
+"0","plot_ly(mtcars, x = ~wt, y = ~mpg, type = ""scatter"")
+"
+"2","No scatter mode specifed:
+  Setting the mode to markers
+  Read more about this attribute -> https://plot.ly/r/reference/#scatter-mode
+"
+"2","No scatter mode specifed:
+  Setting the mode to markers
+  Read more about this attribute -> https://plot.ly/r/reference/#scatter-mode
+"

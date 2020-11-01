@@ -1,0 +1,9 @@
+"0","library(leaflet)
+"
+"2","package ‘leaflet’ was built under R version 3.6.3"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"0","my_map <- leaflet() %>% "
+"0","  addTiles()"

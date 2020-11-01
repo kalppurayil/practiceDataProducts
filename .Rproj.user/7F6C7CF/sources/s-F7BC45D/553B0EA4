@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604205915773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2341529783",
+    "id" : "553B0EA4",
+    "lastKnownWriteTime" : 1602940167,
+    "last_content_update" : 1604226901198,
+    "path" : "C:/Users/sange/Desktop/Rscripts/buildingDataProducts/Developing_Data_Products/leaflet/leaflet.Rmd",
+    "project_path" : "Developing_Data_Products/leaflet/leaflet.Rmd",
+    "properties" : {
+        "cursorPosition" : "297,30",
+        "scrollLine" : "281"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,59 @@
+Predict Population for a Country
+========================================================
+author: Sangeeth
+date: 11th Nov 2020
+autosize: true
+
+Application
+========================================================
+
+The app is used to predict the population of a country.
+
+- Select one of 142 countries
+- The available population data is from 1952-2007
+- Predict population uptil 2030 using linear regression.
+- Data source : Gapminder Dataset
+
+Peek at the Gapminder Dataset
+========================================================
+
+```{r, echo=FALSE}
+library(gapminder)
+head(gapminder,5)
+```
+
+Sample Plot
+========================================================
+
+```{r, echo=FALSE}
+library(ggplot2)
+
+p <- ggplot(
+  data = subset(gapminder, country == "Afghanistan"),
+  mapping = aes(
+    x = year,
+    y = lifeExp
+  )
+)
+
+p + 
+  geom_point() + 
+  geom_smooth(
+    method = "lm", 
+    se = FALSE
+  )
+```
+
+Software Used
+========================================================
+
+R Libraries
+- ggplot
+- shiny
+- gapminder
+
+Hosting
+- Github
+- shiny.io
+
+THANK YOU
